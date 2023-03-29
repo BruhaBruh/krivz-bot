@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/redis
+.env
+.env.example
+.gitignore
+docker-compose.yml

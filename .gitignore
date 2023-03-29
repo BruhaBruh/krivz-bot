@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/redis
+.env
+.env.*
+!.env.example
